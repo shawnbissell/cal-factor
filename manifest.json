@@ -1,0 +1,15 @@
+{
+  "short_name": "cal-factor",
+  "name": "Cal Factor Calculator",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#101010",
+  "background_color": "#f5f5f5"
+}
